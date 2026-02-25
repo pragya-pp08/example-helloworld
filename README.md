@@ -5,7 +5,7 @@
 </p>
 
 # Hello world on Solana 
-#this is my repo
+# this is my repo
 
 
 This hello world guide has moved to the [main Solana documentation](https://docs.solana.com/getstarted/rust).
